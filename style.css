@@ -1,0 +1,26 @@
+h1{
+    color : red;
+    text-decoration: violet underline;
+}
+p{
+    color : green;
+    text-align: center;
+    text-decoration:line-through;
+}
+button{
+    color : #0000ff
+}
+body{
+    background-color : black
+}
+#h1{
+    font-weight: lighter;
+}
+#one{
+    font-family:arial;
+    font-size: 100px;
+}
+#two{
+    line-height: 50px;
+    text-transform: uppercase;
+}
